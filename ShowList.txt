@@ -1,0 +1,4 @@
+C:\VideoDirectory1\Some-TV-Show-Season1
+C:\VideoDirectory1\Some-TV-Show-Season2
+C:\VideoDirectory1\Some-TV-Show-Season3
+C:\VideoDirectory\Another-Show-Season1
